@@ -1,6 +1,4 @@
-# vue3-sync-modifier
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-es4rut)a# vue3 模板编译 —— 30 行代码实现 .sync 修饰符
+# vue3 模板编译 —— 30 行代码实现 .sync 修饰符
 
 > **🔴 v-bind 的 `.sync` 修饰符在 vue3 已移除**
 >
